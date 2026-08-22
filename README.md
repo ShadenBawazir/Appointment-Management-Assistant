@@ -1,15 +1,16 @@
-# Appointment-Management-Assistant
-AI-Powered Appointment Management Assistant using Salesforce Agentforce
+# AI-Powered Appointment Management Assistant
 
+## Project Overview
+This project leverages Salesforce Agentforce and Flow Builder to create an AI-powered assistant for managing appointments (scheduling, rescheduling, and cancellation) using natural language.
 
-Documentation
+## Technologies Used
+- Salesforce Platform
+- Agentforce
+- Flow Builder
+- Lightning App Builder
+- Reports & Dashboards
 
-
-
-
-
-Screenshots
-
-
-
-Demo_Video
+## Files
+- `Documentation/` - Contains all project documentation
+- `Screenshots/` - Contains visual evidence of the project
+- `Demo_Video/` - Contains the demo video link
